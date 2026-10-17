@@ -1,0 +1,7 @@
+# requirements.txt
+mss
+pillow
+groq
+keyboard
+screen-ocr[winrt]   # Windows native OCR (fast!)
+# pytesseract       # optional fallback — needs Tesseract installed separately
